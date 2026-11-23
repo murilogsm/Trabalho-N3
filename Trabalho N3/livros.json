@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "genero": "Romance",
+        "ano": 1899
+    },
+    {
+        "id": 2,
+        "titulo": "O Hobbit",
+        "autor": "J. R. R. Tolkien",
+        "genero": "Fantasia",
+        "ano": 1937
+    },
+    {
+        "id": 3,
+        "titulo": "Capitaes da Areia",
+        "autor": "Jorge Amado",
+        "genero": "Romance",
+        "ano": 1937
+    },
+    {
+        "id": 4,
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J. K. Rowling",
+        "genero": "Fantasia",
+        "ano": 1997
+    }
+]
